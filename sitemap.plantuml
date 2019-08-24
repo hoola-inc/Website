@@ -13,8 +13,8 @@ product --> "demo" as demo
 resources --> "Blog" as blog
 resources --> "Customer Stories"
 resources --> "Self-Sovereign Identity Primer"
-about --> "Company"
-
+about --> "Company" as company
+company --> "Location"
 
 how --> "Technology" as tech
 how --> "flow" as flow
