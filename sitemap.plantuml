@@ -1,0 +1,21 @@
+@startuml
+(*) --> "Home" as home
+home --> "Product" as product
+home --> "How it Works?" as how
+home --> "About Us" as about
+home --> "Resources" as resources
+
+product --> "Send" as send
+product --> "hold" as hold
+product --> "recive" as recive
+product --> "demo" as demo 
+
+resources --> "Blog" as blog
+resources --> "Customer Stories"
+resources --> "Self-Sovereign Identity Primer"
+about --> "Company"
+
+
+how --> "Technology" as tech
+how --> "flow" as flow
+@enduml
