@@ -37,6 +37,10 @@
 
 ![sitemap](sitemap.png "Site Map")
 
+#### Samples for Pages
+* How it works? https://www.privaci.ai/products/third-party-risk-assessment
+
+
 ### NAVIGATION FLOW
 Using a flowchart, you can map how your visitor would navigate through your site. Identifying this will help you decide on the key phrases, key paragraphs, key images etc. you should place on each page
 
