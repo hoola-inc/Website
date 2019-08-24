@@ -54,7 +54,7 @@ ADD Wireframes
 ### UI MOCKUPS
 ADD Wireframes
 
-##PHASE 4: PROMOTION AND MARKETING
+## PHASE 4: PROMOTION AND MARKETING
 
 ###WEBSITE PROMOTION AND MARKETING
 Building your website is just the initial phase of it all. Then comes marketing. There are several ways you can promote and drive traffic to your website. Get your team together and sketch out a step by step plan on how to get your website in front of an interested audience 
