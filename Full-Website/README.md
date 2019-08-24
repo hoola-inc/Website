@@ -26,3 +26,8 @@
 * Blockchain
 
 ![minmpaMarket](market-trends.png "Mind Map")
+
+
+## WEBSITE STRUCTURE
+
+![sitemap](sitemap.png "Site Map")
